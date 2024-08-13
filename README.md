@@ -1,7 +1,7 @@
 # CONTACT_APP PROJECT 
 A project for managing contacts and save them.<br/> 
 .<br/>
-I used <h3> Vitejs </h3> for better performance.<br/>
+I used <strong> Vitejs </strong> for better performance.<br/>
 .<br/>
-Developed by <h3> ReactJs, JavaScript, TailwindCSS</h3>.
+Developed by <strong> ReactJs, JavaScript, TailwindCSS </strong>.
 
